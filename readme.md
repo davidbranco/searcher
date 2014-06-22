@@ -11,7 +11,7 @@ mkdir data
 > data/terms.json
 ```
 
-Add your query's terms to the `data/terms.json.
+Add your query's terms to the `data/terms.json`.
 
 ```
 ruby main.rb
