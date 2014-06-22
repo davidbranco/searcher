@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.homepage    = "http://jugoncalv.es/searcher"
   s.summary     = %q{Get queries from Google, by scraping it}
   s.description = %q{You have some queries terms, it give you back query's results from the first page}
-  s.license     = "MIT"
+  s.license     = "WTFPL"
 
   s.files         = `git ls-files`.split("\n")
   s.test_files    = `git ls-files -- {test,spec,features}/*`.split("\n")
