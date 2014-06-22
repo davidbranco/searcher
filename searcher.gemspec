@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.authors     = ["Ju Gonçalves"]
   s.email       = ["github@jugoncalv.es"]
   s.homepage    = "http://jugoncalv.es/searcher"
-  s.summary     = %q{Get queries from Google Custom Search API}
+  s.summary     = %q{Get queries from Google, by scraping it}
   s.description = %q{You have some queries terms, it give you back query's results from the first page}
   s.license     = "MIT"
 
