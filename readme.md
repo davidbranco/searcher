@@ -8,10 +8,10 @@ You have some queries, Searcher give you back query's results from the first pag
 bundle install
 cd searcher
 mkdir data
-> terms.json
+> data/terms.json
 ```
 
-Add your query's terms to the `terms.json`.
+Add your query's terms to the `data/terms.json.
 
 ```
 ruby main.rb
